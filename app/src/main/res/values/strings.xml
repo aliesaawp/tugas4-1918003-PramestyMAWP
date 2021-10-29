@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">tugas4_recycle</string>
+    <string-array name="film">
+        <item>Frozen II</item>
+        <item>Gonjiam</item>
+        <item>Jirisan</item>
+        <item>Leverage</item>
+        <item>Squid Game</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Film Kartun</item>
+        <item>Film Horor</item>
+        <item>Film Misteri</item>
+        <item>Film Action</item>
+        <item>Film Drama</item>
+    </string-array>
+
+</resources>
